@@ -1,6 +1,6 @@
 # Lab6-Ecommerce-Customers-ML
 
-# E-commerce Customers: A Linear Regression Approach
+## E-commerce Customers: A Linear Regression Approach
 
 ## Introduction
 
